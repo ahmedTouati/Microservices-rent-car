@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: eureka-app
+  labels:
+    app: eureka-app
+spec:
+  containers:
+    - name: eureka-app
+      image: eureka:latest
+      imagePullPolicy: Never
+      ports:
+        - containerPort: 8761

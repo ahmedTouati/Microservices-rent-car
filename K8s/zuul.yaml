@@ -1,0 +1,13 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  name: zuul-app
+  labels:
+    app: zuul-app
+spec:
+  containers:
+    - name: zuul-app
+      image: zuul:latest
+      imagePullPolicy: Never
+      ports:
+        - containerPort: 8762
