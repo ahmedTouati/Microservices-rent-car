@@ -1,0 +1,5 @@
+com/esprit/microservice/clientservice/ClientRepository.class
+com/esprit/microservice/clientservice/ClientApplication.class
+com/esprit/microservice/clientservice/ClientRestAPI.class
+com/esprit/microservice/clientservice/Client.class
+com/esprit/microservice/clientservice/ClientService.class

@@ -1,0 +1,5 @@
+com/esprit/microservice/Voitureservice/VoitureService.class
+com/esprit/microservice/Voitureservice/VoitureRepository.class
+com/esprit/microservice/Voitureservice/Voiture.class
+com/esprit/microservice/Voitureservice/VoitureRestAPI.class
+com/esprit/microservice/Voitureservice/VoitureApplication.class
